@@ -1,0 +1,16 @@
+.container {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.table {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: 3;
+}
